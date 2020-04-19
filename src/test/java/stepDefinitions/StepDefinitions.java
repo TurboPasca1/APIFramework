@@ -81,6 +81,7 @@ public class StepDefinitions extends Utils {
                 .body(data.deletePlacePayload(place_id));
         System.out.println("place_id: "+place_id);
         System.out.println("Git demo");
+        System.out.println("Develop branch");
         System.out.println("Delete place payload end");
     }
 }
