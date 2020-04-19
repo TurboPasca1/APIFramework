@@ -80,6 +80,7 @@ public class StepDefinitions extends Utils {
                 .spec(requestSpecification())
                 .body(data.deletePlacePayload(place_id));
         System.out.println("place_id: "+place_id);
+        System.out.println("Git demo");
         System.out.println("Delete place payload end");
     }
 }
