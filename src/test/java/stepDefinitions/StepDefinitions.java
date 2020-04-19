@@ -84,5 +84,6 @@ public class StepDefinitions extends Utils {
         System.out.println("Develop branch");
         System.out.println("personB develop branch");
         System.out.println("Delete place payload end");
+        System.out.println("new");
     }
 }
